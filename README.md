@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmerMesihovic
 - 👀 I’m interested in Web Design and Coding
-- 🌱 I’m currently learning React nad QA Automation
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on some projects or do some practice where I can gain experience.
 - 📫 How to reach me, via e-mail mesihovic.amer@hotmail.com
 
